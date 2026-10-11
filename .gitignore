@@ -9,3 +9,5 @@
 .history/
 *.app
 .snapshots/*
+
+text_ignore.txt
